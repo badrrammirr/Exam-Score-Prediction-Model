@@ -10,8 +10,8 @@ The project utilizes a **Random Forest Regressor**, selected for its ability to 
 
 | Metric | Score | Interpretation |
 | :--- | :--- | :--- |
-| **Model ($R^2$ Score)** | **~[Insert Your R^2 Score Here]** | The model explains approximately **[Your R^2 score in percentage]%** of the variance observed in the exam scores. |
-| **Prediction Error (MAE)** | **~[Insert Your MAE Score Here]** | On average, the model's prediction deviates by $\pm$ **[Your MAE Score]** points from the true score. |
+| **Model ($R^2$ Score)** | **~[0.6873831919777449]** | The model explains approximately **~[0.68]%** of the variance observed in the exam scores. |
+| **Prediction Error (MAE)** | **~[8.53484133]** | On average, the model's prediction deviates by $\pm$ **[8.53484133]** points from the true score. |
 
 ---
 
